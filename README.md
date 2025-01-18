@@ -4,7 +4,7 @@ Welcome to the Chimoney Laravel SDK! This guide will help you install, set up, a
 
 ---
 
-## Installation Instructions
+## Installation Instructions (clearly stated)
 
 ### Prerequisites
 Before installing the Chimoney Laravel SDK, ensure the following:
